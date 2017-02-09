@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+h2 {
+    text-align: center;
+    color: cadetblue;
+}
+
+p {
+    text-align: center;
+    color: forestgreen;
+}
+
+ul.a {
+    list-style-type: circle;
+}
+
+ul.b {
+    list-style-type: square;
+}
